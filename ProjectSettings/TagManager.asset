@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Walls
+  - Water
+  - UI
+  - Boundary
+  - Lose
+  - Mochi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundArt
+    uniqueID: 2644321397
+    locked: 0
+  - name: UIComponents
+    uniqueID: 870598897
+    locked: 0
+  - name: GameObjects
+    uniqueID: 2942543511
+    locked: 0
